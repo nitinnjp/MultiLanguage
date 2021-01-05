@@ -16,7 +16,7 @@ namespace MultiLanguage.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page copy master.";
 
             return View();
         }
